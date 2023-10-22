@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **node js , express js**
 
-- 💬 Ask me about **React, React Native Next , ...**
+- 💬 Ask me about **React, React Native, Next , ...**
 
 - 📫 How to reach me **faryabi.mostafa@gmail.com**
 
